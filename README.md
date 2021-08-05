@@ -1,3 +1,12 @@
+# Issues
+
+- 8/4/2021
+   - Keeps throwing an error on the build script.  Currently should be initiated thru webpack.  Maybe the .config builds in the wenpack file?
+
+
+
+
+-------
 A very simple static website I built from scratch with Pug.js, Webpack, VanillaJS and PostCSS, in order to write –on a daily basis– about everything I'm working on and learning.
 
 View on Netlify: https://frontenddailylog.netlify.app
